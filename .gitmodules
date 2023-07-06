@@ -1,0 +1,12 @@
+[submodule "Socket-Based-Hotel-Management-System"]
+	path = Socket-Based-Hotel-Management-System
+	url = git@github.com:Mohta3b/Socket-Based-Hotel-Management-System.git
+[submodule "ns-3-Wireless-Network-Simulation"]
+	path = ns-3-Wireless-Network-Simulation
+	url = git@github.com:Mohta3b/ns-3-Wireless-Network-Simulation.git
+[submodule "Network-Routing-Protocols"]
+	path = Network-Routing-Protocols
+	url = git@github.com:Mohta3b/Network-Routing-Protocols.git
+[submodule "TCP-Congestion-Control-Mechanisms"]
+	path = TCP-Congestion-Control-Mechanisms
+	url = git@github.com:Mohta3b/TCP-Congestion-Control-Mechanisms.git
